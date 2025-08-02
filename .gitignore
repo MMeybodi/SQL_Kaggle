@@ -2,7 +2,7 @@
 .ipynb_checkpoints/
 
 # Ignore anaconda projects folder
-anaconda_projects/
+anaconda_projects/db
 
 # Ignore this specific file
 run jupyter in this folder.txt
