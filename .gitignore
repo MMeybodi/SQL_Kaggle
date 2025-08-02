@@ -1,0 +1,16 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore anaconda projects folder
+anaconda_projects/
+
+# Ignore this specific file
+run jupyter in this folder.txt
+
+train_43.csv
+
+languages_dataset.json
+
+SQL_to_Git.txt
+
+commits_dataset.json
