@@ -1,4 +1,0 @@
-in anaconda prompt:
-
-cd /d E:/backup/Data/Learning/Kaggle/SQL
-jupyter notebook
